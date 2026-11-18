@@ -150,7 +150,7 @@ Product direction: no complex user-facing device revocation UI in v1.
 
 This exception lets short-lived jobs use a stable principal-controlled identity
 without handing each job root authority. The 11-hour bound remains a mitigation
-while [device revocation (#4)](https://github.com/tschk/nexnet/issues/4) is
+while [device revocation (#4)](https://github.com/softwarecorporation/nexnet/issues/4) is
 unfinished; renewal is not revocation and cannot invalidate a stolen certificate.
 
 **Identity is not execution authority.** The closed agent pilot additionally

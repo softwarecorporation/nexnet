@@ -1,6 +1,6 @@
 # nexnet-term
 
-Terminal chat UI for Nexnet, built with [Crepuscularity](https://github.com/tschk/crepuscularity)
+Terminal chat UI for Nexnet, built with [Crepuscularity](https://github.com/softwarecorporation/crepuscularity)
 (`crepuscularity-tui`, ratatui backend). The binary is `nexnet`.
 
 The UI holds no keys, speaks no network protocol and contains no network code.

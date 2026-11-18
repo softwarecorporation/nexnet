@@ -4,7 +4,7 @@
 
 You are continuing work on **nexnet** (formerly "nettle"), an open-source P2P social chat network with blockchain-backed identity, local-first history, and privacy-routed discovery.
 
-**Repo:** https://github.com/tschk/nexnet  
+**Repo:** https://github.com/softwarecorporation/nexnet  
 **Working directory:** /Users/undivisible/projects/nexnet  
 **License:** ISC  
 **Stack:** TypeScript (Bun) + Cloudflare Workers + OpenTUI + SolidJS. Chain app in inauguration `.in` (separate project at ../inauguration).

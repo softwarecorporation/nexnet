@@ -77,7 +77,7 @@ Nexnet runs a **purpose-built chain**, not a third-party L1/L2 product.
 
 Chain application logic and (as language surface matures) runtime pieces are
 written in **inauguration** (`.in` / Core IR) from the sibling project
-[`inauguration`](https://github.com/tschk/inauguration) at `../inauguration`.
+[`inauguration`](https://github.com/softwarecorporation/inauguration) at `../inauguration`.
 
 Messaging still talks only through `nexnet-chain-client`. Chat work must not
 block on full consensus maturity — a local single-node / deterministic
